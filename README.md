@@ -1,13 +1,12 @@
-# Oi, eu sou a Gabriela Costa! 👋
+# Olá, sou a Gabriela Costa! 👋
 
-Sou **Analista de Dados** e transformo dados em **insights significativos**.  
-
+Como **Analista de Dados**, minha missão é transformar dados em valor real para pessoas e negócios.
 
 Neste espaço, você encontrará projetos que abrangem desde a **construção de pipelines ELT**, **análises estatísticas** até o desenvolvimento de **dashboards interativos**.
 
----
+<br>
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas que Utilizo
 
 <div align="center">
   <!-- Linguagens e Bibliotecas -->
@@ -61,7 +60,7 @@ Neste espaço, você encontrará projetos que abrangem desde a **construção de
   
 </div>
 
-
+<br>
 
 ### 🌐 Vamos nos conectar?
 
