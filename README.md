@@ -1,6 +1,6 @@
 # Olá, sou a Gabriela Costa! 👋
 
-Como **Analista de Dados**, minha missão é transformar dados em valor real para pessoas e negócios.
+Como **Analista de Dados**, meu papel é empoderar a tomada de decisão de **pessoas** através de **dados**. 
 
 Neste espaço, você encontrará projetos que abrangem desde a **construção de pipelines ELT**, **análises estatísticas** até o desenvolvimento de **dashboards interativos**.
 
